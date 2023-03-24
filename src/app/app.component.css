@@ -1,0 +1,131 @@
+header{
+    margin-bottom: 1px;
+}
+
+.home{
+    background: #8d8b5b;
+    background: linear-gradient(0deg, rgba(141,139,91,0.7120098039215687) 5%, rgba(141,139,91,1) 85%);
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.home-header{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+
+.name-company{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    font-family: Helvetica, sans-serif;
+    color: #47451b;
+    font-size: 27px;
+}
+
+.logo-header{
+    margin-top: 12px;
+    width: 100px;
+    height: 78px;
+}
+
+.home > button {
+    margin: 25px 20px;
+    background-color: #abaa87;
+    color: #47451b;
+}
+
+body{
+    background-image: url("../assets/photos/background.png");
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1px;
+}
+
+.inicio{
+    display: flex;
+    flex-direction: row;
+}
+
+.coluna-1{
+    margin: 190px 100px 50px 250px;
+}
+
+.coluna-1 > h1{
+    margin: 10px 0px 10px 5px;
+    font-family: Helvetica, sans-serif;
+    color: #47451b;
+    font-size: 27px;
+}
+
+.coluna-1 > button{
+    color: #47451b;
+}
+
+.mat-raised-button{
+    width: 250px;
+    height: 50px;
+    background-color: #c5c4ad;
+}
+
+.horse-body{
+    width: 500px;
+    height: 460px;
+    border-radius: 50%;
+    margin: 50px 100px;
+}
+
+footer{
+    height: 300px;
+    background: #8d8b5b;
+    background: linear-gradient(0deg, rgba(141,139,91,0.7120098039215687) 5%, rgba(141,139,91,1) 85%);
+}
+
+.social-footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.redes img{
+    margin: 10px;
+    width: 50px;   
+}
+
+.descricao{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #47451b;
+}
+
+.logo{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-footer{
+    width: 220px;
+    border-radius: 30px;
+
+}
+
+
+
