@@ -48,6 +48,8 @@ body{
 .inicio{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
 }
 
 .coluna-1{
@@ -89,13 +91,14 @@ footer{
     height: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .redes{
     display: flex;
-    flex-direction: row;
+    flex-direction: wrap;
     align-items: center;
+    margin-left: 80px;
 }
 
 .redes img{
@@ -124,6 +127,7 @@ footer{
 .logo-footer{
     width: 220px;
     border-radius: 30px;
+    margin-left: 100px;
 
 }
 
