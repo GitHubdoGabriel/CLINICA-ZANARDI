@@ -1,3 +1,3 @@
 # CLINICAZANARDI
 
-[Disponivel aqui](https://githubdogabriel.github.io/CLINICA-ZANARDI/)
+Disponivel aqui: [Clínica Zanardi](https://githubdogabriel.github.io/CLINICA-ZANARDI/)
